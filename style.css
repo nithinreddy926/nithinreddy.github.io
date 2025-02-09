@@ -28,6 +28,24 @@ section {
     background-color: #fff;
     border-radius: 8px;
 }
+section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+section ul li {
+    margin: 10px 0;
+}
+
+section ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+section ul li a:hover {
+    color: #007BFF;
+}
+
 
 footer {
     background-color: #333;
